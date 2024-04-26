@@ -1,19 +1,17 @@
 # Pizza App Landing Page
 
-This repository contains the landing page of a pizza app built using Next.js, Chakra UI, and Tailwind CSS.
+This repository contains the landing page of a pizza app built using Next.js, Shadcn UI, and Tailwind CSS.
 
 ## Preview
 
-![Pizza App Landing Page](![image](https://github.com/murtazakhan2595/Next-UI-pizza-app-landing-page/assets/87115246/5465f860-6566-413d-9f2d-df185295384a)
-)
+![image](https://github.com/murtazakhan2595/Next-UI-pizza-app-landing-page/assets/87115246/5465f860-6566-413d-9f2d-df185295384a)
 ![image](https://github.com/murtazakhan2595/Next-UI-pizza-app-landing-page/assets/87115246/405a55f3-3d9d-43eb-a722-8e425aa52867)
-
 ![image](https://github.com/murtazakhan2595/Next-UI-pizza-app-landing-page/assets/87115246/071aff13-a754-40b2-b501-3c685b130f59)
 
 ## Technologies Used
 
 - Next.js: A React framework for building server-side rendered and statically generated applications.
-- Chakra UI: A simple, modular and accessible component library for React applications.
+- Shadcn UI: A simple, modular and accessible component library for React applications.
 - Tailwind CSS: A utility-first CSS framework for building custom designs quickly.
 
 ## Getting Started
