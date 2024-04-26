@@ -18,8 +18,8 @@ This repository contains the landing page of a pizza app built using Next.js, Sh
 
 To run this project locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/pizza-app-landing-page.git`
-2. Navigate into the project directory: `cd pizza-app-landing-page`
+1. Clone this repository: `git clone https://github.com/murtazakhan2595/pizza-app-landing-page.git`
+2. Navigate into the project directory: `cd Next-UI-pizza-app-landing-page`
 3. Install dependencies: `npm install` or `yarn install`
 4. Start the development server: `npm run dev` or `yarn dev`
 5. Open your browser and visit `http://localhost:3000` to view the landing page.
